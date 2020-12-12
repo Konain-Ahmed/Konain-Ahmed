@@ -1,3 +1,6 @@
+<p align = "center">
+  <img alt="header" width="110%" src="https://user-images.githubusercontent.com/64878501/101987036-a9c6ec80-3cb7-11eb-9861-7bca57074045.gif" />
+</p>
 ## Hi there, I'm Konain Ahmed 👋
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
